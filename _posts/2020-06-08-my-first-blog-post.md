@@ -1,5 +1,6 @@
 ---
-title: "My little blog"
+title: "My CSA final project"
 date: 2020-06-07
 ---
-It's 1 minute before it turns 11 PM. 
+Yeha Kwon
+Facebook: Yeha Kwon
